@@ -4,3 +4,7 @@ project_scrollup_auto_comment_reaction_enable: 1
 backlist_ip:
 - "4.4.4.4"
 - "5.5.5.5"
+
+backlist_mac:
+- "4.4.4.4"
+- "5.5.5.5"
